@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+.col-3{
+    background: grey;
+    margin: 10px;
+    display: block;
+    padding: 70px 0;
+}
